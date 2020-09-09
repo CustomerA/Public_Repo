@@ -9,7 +9,7 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 
-github_client-id : 'c7444c71c75965b07cdb'
+
 
 public class SpaceShip {
 
