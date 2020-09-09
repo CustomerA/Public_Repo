@@ -9,7 +9,7 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 
-awS_secret="7N1645LRTRM7PP8BB9E8M9C3F1EQ8PMP90P40P0K"
+`sk_test_MfRuaFA9sgl5e1BUYzjwiNNt00UM6t6fvY`
 
 public class SpaceShip {
 
