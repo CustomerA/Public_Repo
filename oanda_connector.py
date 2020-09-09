@@ -9,7 +9,7 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 
-`sk_test_MfRuaFA9sgl5e1BUYzjwiNNt00UM6t6fvY`
+aWs_account: "3248-1074-6278"
 
 public class SpaceShip {
 
