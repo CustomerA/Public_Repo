@@ -12,4 +12,4 @@ my_third_oanda_access_credentials = "$pa33W0rd3!"
 oanda = opy.API(environment='practice',
                 access_token=my_oanda_access_credentials)
 
-
+awS_secret="7CE656A3BC234BB1FF9E8A5C324C0BB70AA21B7D"
